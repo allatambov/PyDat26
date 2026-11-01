@@ -1,0 +1,433 @@
+Title,Company,Country,Language,Running time,Budget,Box office,IMDB,Metascore,Release year,Release season
+Academy Award Review of,Walt Disney Productions,United States,English,41.0,,,7.2,,1937.0,Spring
+Snow White and the Seven Dwarfs,Walt Disney Productions,United States,English,83.0,1490000.0,418000000.0,7.6,95.0,1937.0,Winter
+Pinocchio,Walt Disney Productions,United States,English,88.0,2600000.0,164000000.0,7.4,99.0,1940.0,Winter
+Fantasia,Walt Disney Productions,United States,English,126.0,2280000.0,83300000.0,7.8,96.0,1940.0,Autumn
+The Reluctant Dragon,Walt Disney Productions,United States,English,74.0,600000.0,960000.0,6.9,,1941.0,Summer
+Dumbo,Walt Disney Productions,United States,English,64.0,950000.0,1300000.0,7.2,96.0,1941.0,Autumn
+Bambi,Walt Disney Productions,United States,English,70.0,858000.0,267400000.0,7.3,91.0,1942.0,Summer
+Saludos Amigos,Walt Disney Productions,United States,"['English', 'Portuguese', 'Spanish']",42.0,,1135000.0,6.1,60.0,1942.0,Summer
+Victory Through Air Power,Walt Disney Productions,United States,English,65.0,788000.0,799000.0,6.5,,1943.0,Summer
+The Three Caballeros,Walt Disney Productions,United States,"['English', 'Spanish', 'Portuguese']",71.0,,3355000.0,6.4,85.0,1944.0,Winter
+Make Mine Music,Walt Disney Productions,United States,English,75.0,1350000.0,3275000.0,6.3,60.0,1946.0,Spring
+Song of the South,Walt Disney Productions,United States,English,94.0,2125000.0,65000000.0,7.1,54.0,1946.0,Autumn
+Fun and Fancy Free,Walt Disney Productions,United States,English,73.0,,3165000.0,6.6,66.0,1947.0,Autumn
+Melody Time,Walt Disney Productions,United States,English,75.0,1500000.0,2560000.0,6.4,69.0,1948.0,Spring
+So Dear to My Heart,Walt Disney Productions,United States,English,82.0,1500000.0,3700000.0,6.8,,1948.0,Autumn
+The Adventures of Ichabod and Mr. Toad,Walt Disney Productions,United States,English,68.0,,1625000.0,7.0,74.0,1949.0,Autumn
+Cinderella,Walt Disney Productions,United States,English,74.0,2900000.0,263600000.00000003,6.9,67.0,1950.0,Winter
+Treasure Island,Walt Disney Productions,"['United States', 'United Kingdom']",English,96.0,1800000.0,4100000.0,6.9,89.0,1950.0,Summer
+Alice in Wonderland,Walt Disney Productions,United States,English,75.0,3000000.0,5600000.0,6.4,53.0,1951.0,Summer
+The Story of Robin Hood and His Merrie Men,"['Walt Disney Productions', 'RKO Radio Pictures, Inc.']","['United States', 'United Kingdom']",English,84.0,,2100000.0,6.7,64.0,1952.0,Spring
+Peter Pan,Walt Disney Productions,United States,English,77.0,4000000.0,87400000.0,7.3,76.0,1953.0,Winter
+The Sword and the Rose,Walt Disney Productions,"['United Kingdom', 'United States']",English,92.0,2000000.0,1000000.0,6.4,,1953.0,Summer
+The Living Desert,Walt Disney Productions,United States,English,69.0,300000.0,2600000.0,7.5,69.0,1953.0,Autumn
+"Rob Roy, the Highland Rogue",Walt Disney Productions,"['United Kingdom', 'United States']",English,81.0,1800000.0,,6.3,,1953.0,Autumn
+The Vanishing Prairie,Walt Disney Productions,United States,English,60.0,,1750000.0,7.7,,1954.0,Summer
+"20,000 Leagues Under the Sea",Walt Disney Productions,United States,English,127.0,5000000.0,28200000.0,7.2,83.0,1954.0,Winter
+"Davy Crockett, King of the Wild Frontier",Walt Disney Productions,United States,English,92.0,,2150000.0,7.0,,1955.0,Spring
+Lady and the Tramp,Walt Disney Productions,United States,English,76.0,4000000.0,187000000.0,7.3,78.0,1955.0,Summer
+The African Lion,Walt Disney Productions,United States,English,75.0,,2100000.0,7.2,,1955.0,Autumn
+The Littlest Outlaw,Walt Disney Productions,"United States, Mexico","English, Spanish",73.0,,1600000.0,6.1,,1955.0,Winter
+The Great Locomotive Chase,Walt Disney Productions,United States,English,85.0,,1700000.0,6.9,,1956.0,Summer
+Davy Crockett and the River Pirates,Walt Disney Productions,United States,English,81.0,,,6.8,,1956.0,Summer
+Secrets of Life,Walt Disney Productions,United States,English,70.0,,,7.8,,1956.0,Autumn
+Westward Ho the Wagons!,Walt Disney Productions,United States,English,90.0,,2750000.0,5.8,,1956.0,Winter
+Johnny Tremain,Walt Disney Productions,United States,English,80.0,700000.0,,6.5,,1957.0,Summer
+Perri,Walt Disney Productions,United States,English,75.0,,1750000.0,7.2,,1957.0,Summer
+Old Yeller,Walt Disney Productions,United States,English,83.0,,6250000.0,7.3,84.0,1957.0,Winter
+The Light in the Forest,Walt Disney Productions,United States,English,83.0,,,6.4,,1958.0,Summer
+White Wilderness,Walt Disney Productions,"['United States', 'Canada']",English,72.0,,1800000.0,5.1,,1958.0,Summer
+Tonka,Walt Disney Productions,United States,English,97.0,,2500000.0,6.5,,1958.0,Winter
+Sleeping Beauty,Walt Disney Productions,United States,English,75.0,6000000.0,51600000.0,7.2,85.0,1959.0,Winter
+The Shaggy Dog,Walt Disney Productions,United States,English,104.0,1000000.0,12300000.0,4.4,43.0,1959.0,Spring
+Darby O'Gill and the Little People,Walt Disney Productions,United States,"['English', 'Irish']",93.0,,,7.2,,1959.0,Summer
+Third Man on the Mountain,Walt Disney Productions,United States,English,105.0,2000000.0,1700000.0,7.2,,1959.0,Autumn
+Toby Tyler,Walt Disney Productions,United States,English,95.0,,3100000.0,7.0,,1960.0,Winter
+Kidnapped,Walt Disney Productions,United States,"English, Scots",97.0,,,7.6,,1960.0,Winter
+Pollyanna,Walt Disney Productions,United States,English,134.0,2500000.0,3750000.0,7.4,,1960.0,Spring
+Jungle Cat,Walt Disney Productions,United States,English,69.0,,2300000.0,7.4,,1960.0,Summer
+Ten Who Dared,Walt Disney Productions,United States,English,92.0,,,5.7,,1960.0,Autumn
+Swiss Family Robinson,Walt Disney Productions,United States,English,126.0,4000000.0,40000000.0,7.2,61.0,1960.0,Winter
+One Hundred and One Dalmatians,Walt Disney Productions,United States,English,79.0,3600000.0,303000000.0,7.2,83.0,1961.0,Winter
+The Absent-Minded Professor,Walt Disney Productions,United States,English,97.0,,25400000.0,,,1961.0,Spring
+The Parent Trap,Walt Disney Productions,United States,English,128.0,,25100000.0,6.5,64.0,1961.0,Summer
+"Nikki, Wild Dog of the North",Walt Disney Productions,United States,English,74.0,,,6.9,,1961.0,Summer
+Greyfriars Bobby,Walt Disney Productions,United States,English,91.0,,,7.3,,1961.0,Summer
+Babes in Toyland,Walt Disney Productions,United States,English,105.0,3000000.0,4600000.0,6.3,55.0,1961.0,Winter
+Moon Pilot,Walt Disney Productions,United States,English,98.0,,3500000.0,5.4,,1962.0,Spring
+Bon Voyage!,Walt Disney Productions,United States,English,130.0,3000000.0,5000000.0,5.8,,1962.0,Spring
+Big Red,Walt Disney Productions,United States,English,89.0,,,6.5,,1962.0,Summer
+Almost Angels,Walt Disney Productions,United States,English,93.0,,,6.6,,1962.0,Autumn
+The Legend of Lobo,Walt Disney Productions,United States,English,67.0,,,7.0,,1962.0,Autumn
+In Search of the Castaways,Walt Disney Productions,United States,English,98.0,,21745500.0,6.6,,1962.0,Winter
+Son of Flubber,Walt Disney Productions,United States,English,100.0,,22100000.0,6.1,,1963.0,Winter
+Miracle of the White Stallions,Walt Disney Productions,United States,English,118.0,,2550000.0,6.6,,1963.0,Spring
+Savage Sam,Walt Disney Productions,United States,English,103.0,,3000000.0,6.2,,1963.0,Summer
+Summer Magic,Walt Disney Productions,United States,English,110.0,,4350000.0,7.1,,1963.0,Summer
+The Incredible Journey,Walt Disney Productions,"['United States', 'Canada']",English,80.0,,4200000.0,7.1,87.0,1963.0,Autumn
+The Sword in the Stone,Walt Disney Productions,United States,English,79.0,3000000.0,22200000.0,7.2,61.0,1963.0,Winter
+A Tiger Walks,Walt Disney Productions,United States,English,91.0,,1600000.0,6.4,,1964.0,Spring
+The Misadventures of Merlin Jones,Walt Disney Productions,United States,English,91.0,,4000000.0,6.4,,1964.0,Winter
+The Three Lives of Thomasina,Walt Disney Productions,"['United Kingdom', 'United States']","['English', 'Gaelic']",97.0,,2250000.0,7.2,,1963.0,Winter
+The Moon-Spinners,Walt Disney Productions,,English,118.0,,3500000.0,6.7,,1964.0,Summer
+Mary Poppins,Walt Disney Productions,United States,English,139.0,4400000.0,103100000.0,7.8,88.0,1964.0,Summer
+Emil and the Detectives,Walt Disney Productions,United States,English,92.0,,1275000.0,6.0,,1964.0,Winter
+Those Calloways,Walt Disney Productions,United States,English,131.0,,3500000.0,6.7,,1965.0,Winter
+The Monkey's Uncle,Walt Disney Productions,United States,English,87.0,,4000000.0,6.1,,1965.0,Summer
+That Darn Cat!,Walt Disney Productions,United States,English,116.0,,28068222.0,6.8,71.0,1965.0,Winter
+The Ugly Dachshund,Walt Disney Productions,United States,English,93.0,,6200000.0,6.7,,1966.0,Winter
+"Lt. Robin Crusoe, U.S.N.",Walt Disney Productions,United States,English,110.0,,22565634.0,6.0,,1966.0,Summer
+The Fighting Prince of Donegal,Walt Disney Productions,"['United Kingdom', 'United States']",English,110.0,,,6.2,,1966.0,Autumn
+"Follow Me, Boys!",Walt Disney Productions,United States,English,131.0,,16207116.0,7.2,,1966.0,Winter
+"Monkeys, Go Home!",Walt Disney Productions,United States,English,101.0,,3000000.0,5.9,,1967.0,Winter
+The Adventures of Bullwhip Griffin,Walt Disney Productions,United States,English,108.0,,1900000.0,6.6,,1967.0,Spring
+The Gnome-Mobile,Walt Disney Productions,United States,English,84.0,,4000000.0,6.6,,1967.0,Summer
+The Jungle Book,Walt Disney Productions,United States,English,78.0,4000000.0,378000000.0,7.4,77.0,1967.0,Autumn
+"Charlie, the Lonesome Cougar",Walt Disney Productions,United States,English,75.0,,,6.9,,1967.0,Autumn
+The Happiest Millionaire,Walt Disney Productions,United States,English,164.0,5000000.0,5000000.0,6.8,,1967.0,Summer
+Blackbeard's Ghost,Walt Disney Productions,United States,English,106.0,,21540050.0,6.9,71.0,1968.0,Winter
+"The One and Only, Genuine, Original Family Band",Walt Disney Productions,United States,English,110.0,,2250000.0,6.5,,1968.0,Spring
+Never a Dull Moment,Walt Disney Productions,United States,English,99.0,,4150000.0,6.2,,1968.0,Summer
+The Horse in the Gray Flannel Suit,Walt Disney Productions,United States,English,113.0,,3300000.0,6.5,,1968.0,Winter
+The Love Bug,Walt Disney Productions,United States,English,108.0,5000000.0,51264000.0,6.5,48.0,1968.0,Winter
+Smith!,Walt Disney Productions,United States,English,112.0,,1300000.0,6.0,,1969.0,Spring
+Rascal,Walt Disney Productions,United States,English,93.0,,,6.5,,1969.0,Summer
+The Computer Wore Tennis Shoes,Walt Disney Productions,United States,English,91.0,,5500000.0,6.0,54.0,1969.0,Winter
+King of the Grizzlies,Walt Disney Productions,"['United States', 'Canada']",English,93.0,,,5.7,,1970.0,Winter
+The Boatniks,Walt Disney Productions,United States,English,100.0,,18607492.0,5.5,,1970.0,Summer
+The Wild Country,Walt Disney Productions,United States,English,100.0,,4000000.0,6.4,,1970.0,Winter
+The Aristocats,Walt Disney Productions,United States,English,79.0,4000000.0,191000000.0,7.1,66.0,1970.0,Winter
+The Barefoot Executive,Walt Disney Productions,United States,English,96.0,,,6.0,55.0,1971.0,Spring
+Scandalous John,Walt Disney Productions,United States,English,113.0,,,6.2,,1971.0,Summer
+Million Dollar Duck,Walt Disney Productions,United States,English,89.0,,5100000.0,5.9,45.0,1971.0,Summer
+Bedknobs and Broomsticks,Walt Disney Productions,United States,English,118.0,6300000.0,17900000.0,7.1,59.0,1971.0,Autumn
+The Biscuit Eater,Walt Disney Productions,United States,English,92.0,,,5.7,,1972.0,Spring
+"Now You See Him, Now You Don't",Walt Disney Productions,United States,English,88.0,,4610000.0,6.3,,1972.0,Summer
+Napoleon and Samantha,Walt Disney Productions,United States,English,92.0,,,6.0,,1972.0,Summer
+"Run, Cougar, Run",Walt Disney Productions,United States,English,87.0,,,6.4,,1972.0,Autumn
+Snowball Express,Walt Disney Productions,United States,English,93.0,,6100000.0,6.5,,1972.0,Winter
+The World's Greatest Athlete,Walt Disney Productions,United States,English,93.0,,22583370.0,5.8,,1973.0,Winter
+Charley and the Angel,Walt Disney Productions,United States,English,93.0,,,6.1,,1973.0,Spring
+One Little Indian,Walt Disney Productions,United States,English,90.0,,2000000.0,6.3,,1973.0,Summer
+Robin Hood,Walt Disney Productions,United States,English,83.0,5000000.0,32000000.0,6.6,53.0,1973.0,Autumn
+Superdad,Walt Disney Productions,United States,English,96.0,,7000000.0,5.2,,1973.0,Winter
+Herbie Rides Again,Walt Disney Productions,United States,English,88.0,,38229000.0,5.7,49.0,1974.0,Summer
+The Bears and I,Walt Disney Productions,United States,English,89.0,,4000000.0,6.2,,1974.0,Summer
+The Castaway Cowboy,Walt Disney Productions,United States,English,91.0,,,5.9,,1974.0,Summer
+The Island at the Top of the World,Walt Disney Productions,United States,"['English', 'Swedish', 'Norwegian', 'Danish', 'Icelandic']",93.0,8000000.0,10000000.0,6.3,,1974.0,Winter
+The Strongest Man in the World,Walt Disney Productions,United States,English,92.0,,6600000.0,6.1,63.0,1975.0,Winter
+Escape to Witch Mountain,Walt Disney Productions,United States,English,97.0,,20000000.0,6.4,60.0,1975.0,Spring
+The Apple Dumpling Gang,Walt Disney Productions,United States,English,100.0,,36853000.0,6.5,59.0,1975.0,Summer
+One of Our Dinosaurs is Missing,Walt Disney Productions,"['United Kingdom', 'United States']",English,100.0,,5500000.0,6.0,,1975.0,Summer
+The Best of Walt Disney's True-Life Adventures,Walt Disney Productions,United States,English,89.0,,,7.1,,1975.0,Autumn
+Ride a Wild Pony,Walt Disney Productions,"['United States', 'Australia']",English,91.0,1000000.0,,6.3,,1975.0,Winter
+"No Deposit, No Return",Walt Disney Productions,United States,English,112.0,,,6.5,,1976.0,Winter
+Treasure of Matecumbe,Walt Disney Productions,United States,English,115.0,,,6.2,,1976.0,Summer
+Gus,Walt Disney Productions,United States,English,95.0,,21873000.0,5.9,52.0,1976.0,Summer
+The Shaggy D.A.,Walt Disney Productions,United States,English,91.0,,10500000.0,5.9,60.0,1976.0,Winter
+Freaky Friday,Walt Disney Productions,United States,English,95.0,5000000.0,36000000.0,6.2,70.0,1976.0,Winter
+Escape from the Dark,Walt Disney Productions,"['United Kingdom', 'United States']",English,104.0,,,,,1976.0,Spring
+The Many Adventures of,Walt Disney Productions,United States,English,74.0,,,7.6,,1977.0,Spring
+A Tale of Two Critters,Walt Disney Productions,United States,English,48.0,,,7.1,,1977.0,Summer
+The Rescuers,Walt Disney Productions,United States,English,77.0,7500000.0,169000000.0,6.9,74.0,1977.0,Summer
+Herbie Goes to Monte Carlo,Walt Disney Productions,United States,English,104.0,,29000000.0,5.7,38.0,1977.0,Summer
+Pete's Dragon,Walt Disney Productions,United States,English,128.0,10000000.0,36.0,6.7,71.0,1977.0,Autumn
+Candleshoe,Walt Disney Productions,United States,English,101.0,,,6.8,68.0,1977.0,Winter
+Return from Witch Mountain,Walt Disney Productions,United States,English,94.0,,,5.8,51.0,1978.0,Spring
+The Cat from Outer Space,Walt Disney Productions,United States,English,104.0,3500000.0,,6.1,58.0,1978.0,Summer
+Hot Lead and Cold Feet,Walt Disney Productions,United States,English,90.0,,,6.2,,1978.0,Summer
+The North Avenue Irregulars,Walt Disney Productions,United States,English,100.0,,,6.8,,1979.0,Winter
+The Apple Dumpling Gang Rides Again,Walt Disney Productions,United States,English,88.0,,20931111.0,6.2,37.0,1979.0,Summer
+Unidentified Flying Oddball,Walt Disney Productions,"['United Kingdom', 'United States']",English,93.0,5250000.0,,5.3,66.0,1979.0,Summer
+The Black Hole,Walt Disney Productions,United States,English,98.0,20000000.0,35800000.0,6.0,52.0,1979.0,Winter
+The Omega Connection,Walt Disney Productions,United States,English,100.0,,,,,1979.0,Winter
+Midnight Madness,Walt Disney Productions,United States,English,112.0,,2900000.0,6.5,28.0,1980.0,Winter
+The Watcher in the Woods,Walt Disney Productions,United States,English,84.0,9000000.0,5000000.0,6.3,,1980.0,Spring
+Herbie Goes Bananas,Walt Disney Productions,United States,English,98.0,,18000000.0,5.0,55.0,1980.0,Summer
+The Last Flight of Noah's Ark,Walt Disney Productions,United States,English,97.0,6000000.0,11000000.0,5.8,,1980.0,Summer
+Popeye,"['Paramount Pictures', 'Walt Disney Productions', 'Robert Evans Productions', 'King Features Entertainment']",United States,English,114.0,20000000.0,60000000.0,5.3,64.0,1980.0,Winter
+The Devil and Max Devlin,Walt Disney Productions,United States,English,96.0,,16000000.0,5.1,,1981.0,Winter
+Amy,Walt Disney Productions,United States,English,100.0,,,7.8,85.0,1981.0,Spring
+Dragonslayer,"['Paramount Pictures', 'Walt Disney Productions']",United States,English,109.0,18000000.0,14100000.0,6.7,68.0,1981.0,Summer
+The Fox and the Hound,Walt Disney Productions,United States,English,83.0,12000000.0,63500000.0,7.3,65.0,1981.0,Summer
+Condorman,Walt Disney Productions,United States,English,90.0,14000000.0,,5.7,,1981.0,Summer
+Night Crossing,Walt Disney Productions,"['United Kingdom', 'United States']",English,107.0,,8000000.0,6.5,,1982.0,Winter
+Tron,,United States,English,96.0,,,6.8,58.0,1982.0,Summer
+Tex,Walt Disney Productions (promoted under the auspices of Touchstone Films),United States,English,103.0,5000000.0,7400000.0,6.5,78.0,1982.0,Summer
+Trenchcoat,Walt Disney Productions,United States,English,91.0,,4304286.0,5.3,,1983.0,Spring
+Something Wicked This Way Comes,"['Walt Disney Productions', 'Bryna Productions']",United States,English,95.0,19000000.0,8400000.0,6.8,,1983.0,Spring
+Never Cry Wolf,"['Walt Disney Pictures', 'Amarok Productions Ltd.']",United States,"['English', 'Inuktitut']",105.0,11000000.0,27600000.0,7.5,,1983.0,Autumn
+Return to Oz,"['Walt Disney Pictures', 'Silver Screen Partners II']","['United States', 'United Kingdom']",English,113.0,28000000.0,11100000.0,6.7,42.0,1985.0,Summer
+The Black Cauldron,"['Walt Disney Pictures', 'Walt Disney Productions', 'Silver Screen Partners II']",United States,English,80.0,25000000.0,21300000.0,6.4,59.0,1985.0,Summer
+The Journey of Natty Gann,"['Walt Disney Pictures', 'Silver Screen Partners II']",United States,English,101.0,,9700000.0,7.1,66.0,1985.0,Autumn
+One Magic Christmas,"['Walt Disney Pictures', 'Silver Screen Partners II', 'Telefilm Canada']","['United States', 'Canada']",English,89.0,,13677222.0,6.5,,1985.0,Autumn
+The Great Mouse Detective,"['Walt Disney Pictures', 'Walt Disney Feature Animation', 'Silver Screen Partners II']",United States,English,74.0,14000000.0,38700000.0,7.2,73.0,1986.0,Summer
+Flight of the Navigator,"['PSO Productions', 'Viking Film AS']","['United States', 'Norway']",English,90.0,9000000.0,18564613.0,6.9,64.0,1986.0,Summer
+Benji the Hunted,"['Walt Disney Pictures', 'Mulberry Square Productions', 'Silver Screen Partners III']",United States,English,89.0,,22300000.0,6.3,53.0,1987.0,Summer
+The Man from Snowy River II,"['Walt Disney Pictures', 'Silver Screen Partners III', 'Burrowes Film Group', 'The Hoyts Group']",Australia,English,110.0,8700000.0,13687027.0,,,1988.0,Spring
+Oliver & Company,"['Walt Disney Pictures', 'Walt Disney Feature Animation', 'Silver Screen Partners III']",United States,English,74.0,31000000.0,121000000.0,6.7,58.0,1988.0,Autumn
+"Honey, I Shrunk the Kids","['Walt Disney Pictures', 'Silver Screen Partners III']",United States,English,93.0,18000000.0,222700000.0,6.4,63.0,1989.0,Summer
+Cheetah,"['Walt Disney Pictures', 'Silver Screen Partners III']",United States,English,84.0,5000000.0,8153677.0,6.1,,1989.0,Summer
+The Little Mermaid,,United States,English,83.0,40000000.0,,7.6,88.0,1989.0,Autumn
+DuckTales the Movie: Treasure of the Lost Lamp,,United States,English,69.0,20000000.0,18100000.0,6.9,,1990.0,Summer
+The Rescuers Down Under,"['Walt Disney Pictures', 'Walt Disney Feature Animation', 'Silver Screen Partners IV']",United States,English,77.0,,47400000.0,6.9,70.0,1990.0,Autumn
+White Fang,"['Walt Disney Pictures', 'Silver Screen Partners IV']",United States,English,107.0,14000000.0,34800000.0,6.7,62.0,1991.0,Winter
+Shipwrecked,"['Walt Disney Pictures', 'AB Svensk Filmindustri']","['Norway', 'Sweden', 'United States']","['Norwegian', 'English']",93.0,8700000.0,15100000.0,6.7,,1990.0,Autumn
+Wild Hearts Can't Be Broken,Walt Disney Pictures,United States,English,88.0,,7300000.0,7.2,,1991.0,Spring
+The Rocketeer,,United States,English,108.0,35000000.0,46700000.0,6.5,61.0,1991.0,Summer
+Beauty and the Beast,,United States,English,84.0,25000000.0,440100000.0,8.0,95.0,1991.0,Autumn
+Newsies,Walt Disney Pictures,United States,English,121.0,15000000.0,2800000.0,7.0,46.0,1992.0,Spring
+"Honey, I Blew Up the Kid","['Walt Disney Pictures', 'Touchwood Pacific Partners']",United States,English,89.0,40000000.0,58700000.0,4.9,50.0,1992.0,Summer
+The Mighty Ducks,"['Walt Disney Pictures', 'Avnet– Kerner Productions', 'Touchwood Pacific Partners I']",United States,English,104.0,14000000.0,50800000.0,6.5,46.0,1992.0,Autumn
+Aladdin,,United States,English,90.0,28000000.0,504100000.0,8.0,86.0,1992.0,Autumn
+The Muppet Christmas Carol,,United States,English,86.0,12000000.0,27200000.0,7.7,64.0,1992.0,Winter
+Homeward Bound: The Incredible Journey,Walt Disney Pictures,United States,English,84.0,,41800000.0,6.9,,1993.0,Winter
+A Far Off Place,"['Walt Disney Pictures', 'Amblin Entertainment', 'Touchwood Pacific Partners']",United States,English,108.0,,12900000.0,6.6,,1993.0,Spring
+The Adventures of Huck Finn,Walt Disney Pictures,United States,English,107.0,6500000.0,24100000.0,6.2,,1993.0,Spring
+Hocus Pocus,Walt Disney Pictures,United States,English,96.0,28000000.0,39500000.0,6.9,,1993.0,Summer
+Cool Runnings,Walt Disney Pictures,United States,English,98.0,17000000.0,154900000.0,7.0,60.0,1993.0,Autumn
+The Three Musketeers,"['Walt Disney Pictures', 'Caravan Pictures', 'Avnet–Kerner Productions (uncredited)']","['United States', 'Austria']",English,105.0,30000000.0,53900000.0,5.7,35.0,1993.0,Autumn
+Iron Will,Walt Disney Pictures,United States,English,108.0,,21000000.0,6.6,56.0,1994.0,Winter
+Blank Check,Walt Disney Pictures,United States,English,94.0,13000000.0,30600000.0,5.3,42.0,1994.0,Winter
+D2: The Mighty Ducks,"['Walt Disney Pictures', 'Avnet–Kerner Productions']",United States,English,106.0,,45600000.0,6.1,,1994.0,Spring
+White Fang 2: Myth of the White Wolf,Walt Disney Pictures,United States,English,102.0,,8878839.0,5.4,,1994.0,Spring
+The Lion King,"['Walt Disney Pictures', 'Walt Disney Feature Animation']",United States,English,88.0,45000000.0,968500000.0,8.5,88.0,1994.0,Summer
+Angels in the Outfield,"['Walt Disney Pictures', 'Caravan Pictures']",United States,English,102.0,31000000.0,50200000.0,6.2,44.0,1994.0,Summer
+Squanto: A Warrior's Tale,Walt Disney Pictures,"['United States', 'Canada']",English,102.0,,3337685.0,6.0,,1994.0,Autumn
+The Santa Clause,Walt Disney Pictures,United States,English,97.0,22000000.0,189800000.0,6.5,57.0,1994.0,Autumn
+Rudyard Kipling's The Jungle Book,,United States,English,111.0,30000000.0,43200000.0,,,1994.0,Winter
+Heavyweights,"['Walt Disney Pictures', 'Caravan Pictures']",United States,English,100.0,,17600000.0,6.7,42.0,1995.0,Winter
+Man of the House,"['Walt Disney Pictures', 'All Girl Productions', 'Orr & Cruickshank Productions']",United States,English,96.0,22000000.0,40070995.0,5.4,35.0,1995.0,Spring
+Tall Tale,"['Walt Disney Pictures', 'Caravan Pictures']",United States,English,98.0,32000000.0,11000000.0,5.9,,1995.0,Spring
+A Goofy Movie,,United States,English,78.0,,35300000.0,6.8,,1995.0,Spring
+Pocahontas,"['Walt Disney Pictures', 'Walt Disney Feature Animation']",United States,English,81.0,55000000.0,346100000.0,6.7,58.0,1995.0,Summer
+Operation Dumbo Drop,"['Walt Disney Pictures', 'Interscope Communications', 'PolyGram Filmed Entertainment']",,"['English', 'Vietnamese']",108.0,24000000.0,24670346.0,5.1,48.0,1995.0,Summer
+A Kid in King Arthur's Court,"['Walt Disney Pictures', 'Trimark Pictures', 'Tapestry Films']",,English,89.0,15000000.0,13400000.0,4.7,34.0,1995.0,Summer
+The Big Green,"['Walt Disney Pictures', 'Caravan Pictures', 'Roger Birnbaum Productions']",United States,English,99.0,12000000.0,17700000.0,5.6,,1995.0,Autumn
+Frank and Ollie,"['Theodore Thomas Productions', 'Walt Disney Pictures']",United States,English,89.0,,,7.8,,1995.0,Winter
+Toy Story,"['Walt Disney Pictures', 'Pixar Animation Studios']",United States,English,81.0,30000000.0,373600000.0,8.3,95.0,1995.0,Autumn
+Tom and Huck,Walt Disney Pictures,United States,English,92.0,,23900000.0,5.5,,1995.0,Winter
+Muppet Treasure Island,"['Walt Disney Pictures', 'Jim Henson Productions']",United States,English,100.0,31000000.0,34300000.0,7.0,64.0,1996.0,Winter
+Homeward Bound II: Lost in San Francisco,Walt Disney Pictures,United States,English,89.0,,32700000.000000004,6.0,,1996.0,Spring
+James and the Giant Peach,"['Walt Disney Pictures', 'Allied Filmmakers', 'Skellington Productions']","['United Kingdom', 'United States']",English,79.0,38000000.0,28900000.0,6.7,78.0,1996.0,Spring
+The Hunchback of Notre Dame,"['Walt Disney Pictures', 'Walt Disney Feature Animation']",United States,English,91.0,100000000.0,325300000.0,6.9,74.0,1996.0,Summer
+First Kid,"['Walt Disney Pictures', 'Caravan Pictures', 'Roger Birnbaum Productions']",United States,English,101.0,15000000.0,26491793.0,5.3,48.0,1996.0,Summer
+D3: The Mighty Ducks,"['Walt Disney Pictures', 'Avnet-Kerner Productions']",United States,English,104.0,,22900000.0,5.5,,1996.0,Autumn
+101 Dalmatians,"['Walt Disney Pictures', 'Great Oaks Entertainment']",United States,English,103.0,75000000.0,320700000.0,5.7,49.0,1996.0,Autumn
+That Darn Cat,"['Walt Disney Pictures', 'Robert Simonds Productions']",United States,English,86.0,,18300000.0,4.7,36.0,1997.0,Winter
+Jungle 2 Jungle,"['Walt Disney Pictures', 'TF1 International']","['United States', 'France']",English,105.0,32000000.0,59900000.0,5.2,42.0,1997.0,Spring
+Hercules,,United States,English,93.0,85000000.0,252700000.0,7.3,74.0,1997.0,Summer
+George of the Jungle,"['Walt Disney Pictures', 'Mandeville Films', 'Jay Ward Productions', 'The Kerner Entertainment Company']",United States,English,92.0,55000000.0,174400000.0,5.5,53.0,1997.0,Summer
+Air Bud,"Buddy Films, Inc.","['United States', 'Canada']",English,98.0,3000000.0,27800000.0,5.2,,1997.0,Summer
+RocketMan,"['Walt Disney Pictures', 'Caravan Pictures', 'Roger Birnbaum Productions']",United States,English,95.0,16000000.0,15400000.0,7.3,69.0,1997.0,Autumn
+Flubber,"['Walt Disney Pictures', 'Great Oaks']",United States,English,93.0,80000000.0,178000000.0,5.3,37.0,1997.0,Autumn
+Mr. Magoo,"['Walt Disney Pictures', 'UPA Productions']",United States,English,87.0,30000000.0,28900000.0,4.0,18.0,1997.0,Winter
+Meet the Deedles,"['Walt Disney Pictures', 'DIC Entertainment', 'Peak Productions']",United States,English,93.0,24000000.0,4400000.0,4.1,,1998.0,Spring
+Mulan,"['Walt Disney Pictures', 'Walt Disney Feature Animation']",United States,English,87.0,90000000.0,304300000.0,7.6,71.0,1998.0,Summer
+The Parent Trap,Walt Disney Pictures,United States,English,128.0,15000000.0,92100000.0,6.5,64.0,1998.0,Summer
+I'll Be Home for Christmas,"['Walt Disney Pictures', 'Mandeville Films']",United States,English,86.0,30000000.0,12200000.0,5.5,,1998.0,Autumn
+A Bug's Life,"['Walt Disney Pictures', 'Pixar Animation Studios']",United States,English,95.0,120000000.0,363300000.0,7.2,77.0,1998.0,Autumn
+Mighty Joe Young,"['Walt Disney Pictures', 'RKO Pictures', 'The Jacobson Company']",United States,English,114.0,90000000.0,50600000.0,5.6,51.0,1998.0,Winter
+My Favorite Martian,Walt Disney Pictures,United States,English,93.0,65000000.0,36800000.0,5.1,33.0,1999.0,Winter
+Doug's 1st Movie,"['Walt Disney Pictures', 'Jumbo Pictures', 'Walt Disney Television Animation', 'Plus One Animation']",United States,English,83.0,5000000.0,19400000.0,5.0,,1999.0,Spring
+Endurance,Walt Disney Pictures,"['United States', 'United Kingdom', 'Germany']",English,83.0,,,7.4,,1999.0,Winter
+Tarzan,,United States,English,88.0,130000000.0,448200000.0,7.3,79.0,1999.0,Summer
+Inspector Gadget,,United States,English,78.0,90000000.0,134400000.0,4.1,36.0,1999.0,Summer
+The Straight Story,"['Asymmetrical Productions', 'Canal+', 'FilmFour Productions', 'Ciby 2000', 'Le Studio Canal+']","['United States', 'United Kingdom', 'France']",English,112.0,10000000.0,6200000.0,8.0,86.0,,
+Toy Story 2,"['Walt Disney Pictures', 'Pixar Animation Studios']",United States,English,92.0,90000000.0,497400000.0,7.9,88.0,1999.0,Autumn
+Fantasia 2000,"['Walt Disney Pictures', 'Walt Disney Feature Animation']",United States,English,74.0,85000000.0,90900000.0,7.2,59.0,1999.0,Winter
+The Tigger Movie,"['Walt Disney Television Animation', 'Walt Disney Animation Japan', 'Walt Disney Pictures']",United States,English,77.0,15000000.0,96200000.0,6.3,53.0,2000.0,Winter
+Dinosaur,"['Walt Disney Pictures', 'Walt Disney Feature Animation', 'The Secret Lab']",United States,English,82.0,127500000.0,349800000.0,6.5,56.0,2000.0,Spring
+The Kid,Walt Disney Pictures,United States,English,104.0,65000000.0,110300000.0,8.3,,2000.0,Summer
+Remember The Titans,"['Walt Disney Pictures', 'Jerry Bruckheimer Films', 'Technical Black Films']",United States,English,113.0,30000000.0,136700000.0,7.8,48.0,2000.0,Autumn
+102 Dalmatians,"['Walt Disney Pictures', 'Cruella Productions', 'Kanzaman S.A.M. Films']",United States,English,100.0,85000000.0,183600000.0,4.9,35.0,2000.0,Autumn
+The Emperor's New Groove,"['Walt Disney Pictures', 'Walt Disney Feature Animation']",United States,English,78.0,100000000.0,169300000.0,7.3,70.0,2000.0,Winter
+Recess: School's Out,"['Walt Disney Pictures', 'Walt Disney Television Animation', 'Walt Disney Television Animation Digital Production', 'Paul & Joe Productions', 'Sunwoo Animation Sunwoo Digital International']",United States,English,83.0,23000000.0,44500000.0,6.6,43.0,2001.0,Winter
+Atlantis: The Lost Empire,"['Walt Disney Pictures', 'Walt Disney Feature Animation']",United States,English,96.0,90000000.0,186100000.0,6.9,52.0,2001.0,Summer
+The Princess Diaries,"['Walt Disney Pictures', 'BrownHouse Productions']",United States,English,115.0,26000000.0,165300000.0,6.3,52.0,2001.0,Summer
+Max Keeble's Big Move,"['Walt Disney Pictures', 'Karz Entertainment']",United States,English,86.0,25000000.0,18600000.0,5.4,40.0,2001.0,Autumn
+"Monsters, Inc.","['Walt Disney Pictures', 'Pixar Animation Studios']",United States,English,92.0,115000000.0,577400000.0,8.0,79.0,2001.0,Autumn
+Snow Dogs,"['Walt Disney Pictures', 'The Kerner Entertainment Company']",United States,English,99.0,33000000.0,115000000.0,5.2,29.0,2002.0,Winter
+Return to Never Land,Walt Disney Television Animation,United States,English,73.0,20000000.0,115100000.0,5.8,49.0,2002.0,Winter
+The Rookie,Walt Disney Pictures,United States,English,128.0,22000000.0,80700000.0,6.9,72.0,2002.0,Spring
+Lilo & Stitch,"['Walt Disney Pictures', 'Walt Disney Feature Animation']",United States,English,85.0,80000000.0,273100000.0,7.2,73.0,2002.0,Summer
+The Country Bears,Walt Disney Pictures,United States,English,88.0,35000000.0,18000000.0,4.1,37.0,2002.0,Summer
+Tuck Everlasting,"['Walt Disney Pictures', 'Scholastic Studios']",United States,English,96.0,15000000.0,19300000.0,6.6,66.0,2002.0,Autumn
+The Santa Clause 2,"['Walt Disney Pictures', 'Outlaw Productions', 'Boxing Cat Films']",United States,English,104.0,65000000.0,172900000.0,5.6,48.0,2002.0,Autumn
+Treasure Planet,"['Walt Disney Pictures', 'Walt Disney Feature Animation']",United States,English,95.0,140000000.0,109600000.0,7.2,60.0,2002.0,Autumn
+The Jungle Book 2,"['DisneyToon Studios', 'Walt Disney Pictures']","['United States', 'Australia']",English,72.0,20000000.0,135700000.0,5.4,38.0,2003.0,Winter
+Piglet's Big Movie,"['DisneyToon Studios', 'Walt Disney Pictures']",United States,English,75.0,46000000.0,62900000.0,6.1,62.0,2003.0,Spring
+Ghosts of the Abyss,"['Walt Disney Pictures', 'Walden Media', 'Earthship Productions', 'Ascot Elite Entertainment Group', 'Golden Village', 'Telepool', 'UGC PH']",United States,English,61.0,13000000.0,28700000.0,6.8,67.0,2003.0,Spring
+Holes,"['Walt Disney Pictures', 'Walden Media', 'Phoenix Pictures', 'Chicago Pacific Entertainment']",United States,English,117.0,20000000.0,71400000.0,7.0,71.0,2003.0,Spring
+The Lizzie McGuire Movie,"['Walt Disney Pictures', 'Stan Rogow Productions']",United States,"['English', 'Italian']",94.0,17000000.0,55500000.0,5.5,56.0,2003.0,Spring
+Finding Nemo,"['Walt Disney Pictures', 'Pixar Animation Studios']",United States,English,100.0,94000000.0,940300000.0,8.1,90.0,2003.0,Spring
+Pirates of the Caribbean: The Curse of the Black Pearl,,United States,English,143.0,140000000.0,654300000.0,8.0,63.0,2003.0,Summer
+Freaky Friday,"['Walt Disney Pictures', 'Gunn Films']",United States,English,97.0,26000000.0,160800000.0,6.2,70.0,2003.0,Summer
+Brother Bear,"['Walt Disney Pictures', 'Walt Disney Feature Animation']",United States,English,85.0,46000000.0,250400000.0,6.8,48.0,2003.0,Autumn
+The Haunted Mansion,Walt Disney Pictures,United States,English,86.0,90000000.0,182300000.0,5.0,34.0,2003.0,Autumn
+The Young Black Stallion,"['Walt Disney Pictures', 'The Kennedy/Marshall Company']",United States,English,50.0,,9638389.0,5.6,51.0,2003.0,Winter
+Teacher's Pet,"['Walt Disney Pictures', 'Walt Disney Television Animation', 'Toon City Animation']",United States,English,74.0,10000000.0,6500000.0,7.1,,2004.0,Winter
+Miracle,"['Walt Disney Pictures', 'Mayhem Pictures']",United States,English,136.0,28000000.0,64500000.0,7.5,68.0,2004.0,Winter
+Confessions of a Teenage Drama Queen,Walt Disney Pictures,United States,English,89.0,15000000.0,33100000.0,4.7,33.0,2004.0,Winter
+Home on the Range,"['Walt Disney Pictures', 'Walt Disney Feature Animation']",United States,English,76.0,110000000.0,145500000.0,5.3,50.0,2004.0,Spring
+Sacred Planet,Walt Disney Pictures,"['Canada', 'Malaysia', 'United States']",English,40.0,,1108356.0,6.0,53.0,2004.0,Spring
+Around the World in 80 Days,"['Walt Disney Pictures', 'Walden Media', 'Spanknyce Films', 'Mostow/Lieberman Productions']",United States,"['English', 'French', 'Mandarin Chinese', 'Hindi']",120.0,110000000.0,72200000.0,5.9,49.0,2004.0,Summer
+America's Heart and Soul,"['Walt Disney Pictures', 'Blacklight Films']",United States,English,84.0,,314402.0,,,2004.0,Summer
+The Princess Diaries 2: Royal Engagement,,United States,English,113.0,45000000.0,134700000.0,5.8,43.0,2004.0,Summer
+The Incredibles,,United States,English,115.0,92000000.0,633000000.0,8.0,90.0,2004.0,Autumn
+National Treasure,"['Walt Disney Pictures', 'Jerry Bruckheimer Films', 'Junction Entertainment', 'Saturn Films']",United States,English,131.0,100000000.0,347500000.0,6.9,39.0,2004.0,Autumn
+Aliens of the Deep,"['Walt Disney Pictures', 'Walden Media', 'Earthship Productions']",United States,English,100.0,,9000000.0,6.4,71.0,2005.0,Winter
+Pooh's Heffalump Movie,"['Walt Disney Pictures', 'Disneytoon Studios']",United States,English,68.0,20000000.0,52900000.0,6.4,64.0,2005.0,Winter
+The Pacifier,"['Walt Disney Pictures', 'Spyglass Entertainment']",United States,English,95.0,56000000.0,198600000.0,5.6,30.0,2005.0,Spring
+Ice Princess,"['Walt Disney Pictures', 'Bridget Johnson Films', 'On The Ice Productions']",United States,English,97.0,25000000.0,27600000.0,6.0,55.0,2005.0,Spring
+Herbie: Fully Loaded,"['Walt Disney Pictures', 'Robert Simonds Productions']",United States,English,101.0,50000000.0,144100000.0,4.8,47.0,2005.0,Summer
+Sky High,"['Walt Disney Pictures', 'Gunn Films']",United States,English,100.0,35000000.0,86400000.0,6.2,62.0,2005.0,Summer
+Valiant,"['Vanguard Animation', 'Ealing Studios', 'UK Film Council', 'Take Film Partnerships', 'Odyssey Entertainment']","['United Kingdom', 'United States']",English,76.0,35000000.0,61700000.0,5.5,45.0,2005.0,Spring
+The Greatest Game Ever Played,Walt Disney Pictures,United States,English,120.0,25000000.0,15400000.0,7.4,55.0,2005.0,Autumn
+Chicken Little,"['Walt Disney Pictures', 'Walt Disney Feature Animation']",United States,English,81.0,150000000.0,314400000.0,5.7,48.0,2005.0,Autumn
+"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe","['Walt Disney Pictures', 'Walden Media']","['United Kingdom', 'United States']",English,143.0,180000000.0,745000000.0,6.9,75.0,2005.0,Winter
+Glory Road's,"['Walt Disney Pictures', 'Jerry Bruckheimer Films', 'Texas Western Productions', 'Glory Road Productions']",United States,English,106.0,30000000.0,42900000.0,,,2006.0,Winter
+Roving Mars,"['Walt Disney Pictures', 'White Mountain Films', 'The Kennedy/Marshall Company']",United States,English,40.0,1000000.0,11000000.0,7.2,58.0,2006.0,Winter
+Eight Below,"['Walt Disney Pictures', 'Spyglass Entertainment', 'Mandeville Films', 'The Kennedy/Marshall Company']",United States,English,120.0,40000000.0,120500000.0,7.3,64.0,2006.0,Winter
+The Shaggy Dog,"['Walt Disney Pictures', 'Mandeville Films', 'Boxing Cat Films']",United States,English,99.0,50000000.0,87100000.0,4.4,43.0,2006.0,Spring
+The Wild,"['Walt Disney Pictures', 'Hoytyboy Pictures', 'Sir Zip Productions', 'Contrafilm', 'C.O.R.E. Feature Animation']","['United States', 'Canada']",English,82.0,80000000.0,102300000.0,5.3,47.0,2006.0,Spring
+Cars,"['Walt Disney Pictures', 'Pixar Animation Studios']",United States,English,117.0,120000000.0,462000000.0,7.1,73.0,2006.0,Spring
+Pirates of the Caribbean: Dead Man's Chest,,United States,English,151.0,225000000.0,1066000000.0,7.3,53.0,2006.0,Summer
+Invincible,Walt Disney Pictures,United States,English,104.0,30000000.0,58500000.0,7.1,63.0,2006.0,Summer
+The Nightmare Before Christmas,"['Touchstone Pictures', 'Skellington Productions']",United States,English,76.0,18000000.0,89100000.0,8.0,82.0,1993.0,Autumn
+The Santa Clause 3: The Escape Clause,"['Walt Disney Pictures', 'Outlaw Productions', 'Boxing Cat Films']",United States,English,92.0,12000000.0,110800000.0,4.7,32.0,2006.0,Autumn
+Bridge to Terabithia,,United States,English,95.0,20000000.0,138000000.0,7.1,74.0,2007.0,Winter
+Meet the Robinsons,"['Walt Disney Pictures', 'Walt Disney Animation Studios']",United States,English,94.0,,169300000.0,6.8,61.0,2007.0,Spring
+Pirates of the Caribbean: At World's End,,United States,English,168.0,300000000.0,961000000.0,7.1,50.0,2007.0,Spring
+Ratatouille,"['Walt Disney Pictures', 'Pixar Animation Studios']",United States,English,111.0,150000000.0,620700000.0,8.0,96.0,2007.0,Summer
+Underdog,,United States,English,82.0,25000000.0,65300000.0,4.7,37.0,2007.0,Summer
+The Pixar Story,Leslie Iwerks Productions,,English,87.0,,,7.8,,2007.0,Summer
+The Game Plan,"['Walt Disney Pictures', 'Mayhem Pictures']",United States,English,110.0,22000000.0,146600000.0,6.1,44.0,2007.0,Autumn
+Enchanted,,United States,English,107.0,85000000.0,340500000.0,7.0,75.0,2007.0,Autumn
+National Treasure: Book of Secrets,"['Walt Disney Pictures', 'Jerry Bruckheimer Films', 'Junction Entertainment', 'Saturn Films']",United States,English,124.0,130000000.0,459200000.0,6.5,48.0,2007.0,Winter
+Hannah Montana and Miley Cyrus: Best of Both Worlds Concert,"['Walt Disney Pictures', 'PACE', 'Disney Channel Original Productions']",United States,English,74.0,7000000.0,70600000.0,2.4,59.0,2008.0,Winter
+College Road Trip,"['Walt Disney Pictures', 'Gunn Films', 'Head Gear Films']",United States,English,83.0,25000000.0,51500000.0,4.3,36.0,2008.0,Spring
+The Chronicles of Narnia: Prince Caspian,"['Walt Disney Pictures', 'Walden Media']","['United Kingdom', 'United States']",English,150.0,225000000.0,419700000.0,6.5,62.0,2008.0,Spring
+WALL-E,"['Walt Disney Pictures', 'Pixar Animation Studios']",United States,,97.0,180000000.0,533300000.0,8.4,95.0,2008.0,Summer
+Beverly Hills Chihuahua,"['Walt Disney Pictures', 'Mandeville Films']",United States,English,91.0,20000000.0,149300000.0,3.8,41.0,2008.0,Autumn
+Morning Light,Walt Disney Pictures,United States,English,100.0,,275776.0,5.8,51.0,2008.0,Autumn
+High School Musical 3: Senior Year,"['Walt Disney Pictures', 'Borden and Rosenbush Entertainment']",United States,English,111.0,11000000.0,252900000.0,,,2008.0,Autumn
+Bolt,"['Walt Disney Pictures', 'Walt Disney Animation Studios']",United States,English,96.0,150000000.0,310000000.0,6.8,67.0,2008.0,Autumn
+Bedtime Stories,"['Walt Disney Pictures', 'Happy Madison Productions', 'Gunn Films', 'Offspring Entertainment', 'Conman & Izzy Productions']",United States,English,99.0,80000000.0,212900000.0,6.0,33.0,2008.0,Winter
+Jonas Brothers: The 3D Concert Experience,"['Walt Disney Pictures', 'Jonas Films']",United States,English,76.0,,23100000.0,1.5,45.0,2009.0,Winter
+Race to Witch Mountain,"['Walt Disney Pictures', 'Gunn Films']",United States,English,98.0,50000000.0,106400000.0,5.7,52.0,2009.0,Spring
+Hannah Montana: The Movie,"['Walt Disney Pictures', ""It's a Laugh Productions"", 'Millar Gough Ink']",United States,English,97.0,30000000.0,169.2,4.5,47.0,2009.0,Spring
+Earth,"['BBC Worldwide', 'Greenlight Media', 'Discovery Channel', 'BBC Natural History Unit']","['France', 'United Kingdom', 'Germany', 'United States']",English,99.0,47000000.0,109000000.0,8.0,72.0,2007.0,Autumn
+Up,"['Walt Disney Pictures', 'Pixar Animation Studios']",United States,English,96.0,175000000.0,735100000.0,8.2,88.0,2009.0,Spring
+Lilly the Witch: The Dragon and the Magic Book,,"['Germany', 'Austria', 'Italy', 'Spain', 'United Kingdom']",German,,,,5.2,,,
+G-Force,,United States,English,90.0,150000000.0,292800000.0,5.1,41.0,2009.0,Summer
+Walt & El Grupo,,United States,English,,,,6.3,55.0,,
+The Book of Masters,"['The Walt Disney Company CIS', '(Russia)', 'Trite (Russia)']",Russia,Russian,101.0,8000000.0,11300000.0,,,,
+A Christmas Carol,"['Walt Disney Pictures', 'ImageMovers Digital']",United States,English,96.0,175000000.0,325000000.0,6.8,55.0,2009.0,Autumn
+Old Dogs,"['Walt Disney Pictures', 'Tapestry Films']",United States,English,88.0,35000000.0,96800000.0,5.4,19.0,2009.0,Autumn
+The Princess and the Frog,"['Walt Disney Pictures', 'Walt Disney Animation Studios']",United States,English,97.0,105000000.0,269000000.0,7.1,73.0,2009.0,Autumn
+Alice in Wonderland,"['Walt Disney Pictures', 'Roth Films', 'The Zanuck Company', 'Team Todd']",United States,English,108.0,200000000.0,1025000000.0,6.4,53.0,2010.0,Winter
+Waking Sleeping Beauty,Stone Circle Pictures,United States,English,85.0,,84918.0,7.6,70.0,2009.0,Autumn
+Oceans,"['Pathé', 'Participant Media', 'Galatée Films', 'Notro Films', 'France 2 Cinéma', 'France 3 Cinéma', 'Canal+', 'TPS Star', 'Alfred P. Sloan Foundation', 'Census of Marine Life']",France,French,104.0,80000000.0,82700000.0,7.8,75.0,2009.0,Autumn
+Prince of Persia: The Sands of Time,,United States,English,116.0,150.0,336400000.0,6.6,50.0,2010.0,Spring
+Toy Story 3,"['Walt Disney Pictures', 'Pixar Animation Studios']",United States,English,103.0,200000000.0,1067000000.0,8.3,92.0,2010.0,Summer
+The Sorcerer's Apprentice,"['Walt Disney Pictures', 'Jerry Bruckheimer Films', 'Saturn Films', 'Broken Road Productions']",United States,English,109.0,150000000.0,215300000.0,6.1,46.0,2010.0,Summer
+The Crimson Wing: Mystery of the Flamingos,"['Disneynature', 'Natural Light Films', 'Kudos Pictures']","['United Kingdom', 'United States']",English,74.0,,,7.3,,2008.0,Autumn
+Secretariat,"['Walt Disney Pictures', 'Mayhem Pictures']",United States,English,123.0,35000000.0,60300000.0,7.2,61.0,2010.0,Autumn
+Do Dooni Chaar,"['Walt Disney Pictures', 'Disney World Cinema', 'Planman Motion Pictures', 'Walt Disney Pictures India']",India,Hindi,108.0,,,7.6,,2010.0,Autumn
+Tangled,"['Walt Disney Pictures', 'Walt Disney Animation Studios']",United States,English,100.0,260000000.0,592400000.0,7.7,71.0,2010.0,Autumn
+The Boys: The Sherman Brothers' Story,"['Walt Disney Pictures', 'Red Hour Films']",United States,English,101.0,,55513.0,7.8,78.0,2009.0,Spring
+Tron: Legacy,,United States,English,125.0,150000000.0,410000000.0,6.8,49.0,2010.0,Autumn
+Anaganaga O Dheerudu,"['Disney World Cinema', 'A Bellyful of Dreams Entertainment', 'Arka Media Works', 'Walt Disney Pictures India']",India,Telugu,,3800000.0,5400000.0,,,2011.0,Winter
+Lilly the Witch: The Journey to Mandolan,Walt Disney Pictures,Germany,German,90.0,,,4.8,,2011.0,Winter
+Mars Needs Moms,"['Walt Disney Pictures', 'ImageMovers Digital']",United States,English,88.0,150000000.0,39200000.0,5.4,49.0,2011.0,Spring
+Zokkomon,"['Disney World Cinema', 'Walt Disney Pictures India']",India,Hindi,109.0,,,4.2,,2011.0,Spring
+African Cats,"['Disneynature', 'Fothergill / Scholey Productions', 'Silverback Films']","['United States', 'France', 'United Kingdom']","['English', 'French']",89.0,5000000.0,30900000.0,7.6,61.0,2011.0,Spring
+Prom,Walt Disney Pictures,United States,English,104.0,8000000.0,10100000.0,5.4,50.0,2011.0,Spring
+Pirates of the Caribbean: On Stranger Tides,,United States,English,137.0,410600000.0,1046000000.0,6.6,45.0,2011.0,Spring
+Cars 2,"['Walt Disney Pictures', 'Pixar Animation Studios']",United States,English,106.0,200000000.0,562100000.0,6.1,57.0,2011.0,Summer
+Winnie the Pooh,,United States,English,69.0,30000000.0,50100000.0,7.2,74.0,2011.0,Spring
+The Muppets,"['Walt Disney Pictures', 'Mandeville Films', 'The Muppets Studio']",United States,English,103.0,45000000.0,165200000.0,7.1,75.0,2011.0,Autumn
+John Carter,Walt Disney Pictures,United States,English,132.0,306600000.0,284100000.0,6.6,51.0,2012.0,Winter
+Chimpanzee,"['Disneynature', 'Great Ape Productions']","['United States', 'France', 'United Kingdom']","['English', 'French']",77.0,5000000.0,34800000.0,7.2,57.0,2012.0,Spring
+Arjun: The Warrior Prince,"['Walt Disney Pictures', 'Walt Disney Pictures India', 'UTV Motion Pictures']",India,Hindi,96.0,,,6.8,,2012.0,Spring
+Brave,"['Walt Disney Pictures', 'Pixar Animation Studios']",United States,English,93.0,185000000.0,540400000.0,7.1,69.0,2012.0,Summer
+The Odd Life of Timothy Green,"['Walt Disney Pictures', 'Scott Sanders Productions']",United States,English,104.0,25000000.0,56000000.0,6.6,47.0,2012.0,Summer
+Frankenweenie,"['Walt Disney Pictures', 'Tim Burton Productions']",United States,English,87.0,39000000.0,81500000.0,6.9,74.0,2012.0,Autumn
+Wreck-It Ralph,"['Walt Disney Pictures', 'Walt Disney Animation Studios']",United States,English,101.0,165000000.0,471200000.0,7.7,72.0,2012.0,Autumn
+Oz the Great and Powerful,,United States,English,130.0,200000000.0,493300000.0,6.3,44.0,2013.0,Winter
+Wings of Life,"['Disneynature', 'Blacklight Films']","['France', 'United States']","['French', 'English']",77.0,,,7.4,,2011.0,Spring
+Monsters University,"['Walt Disney Pictures', 'Pixar Animation Studios']",United States,English,104.0,200000000.0,743600000.0,7.3,65.0,2013.0,Summer
+The Lone Ranger,"['Walt Disney Pictures', 'Jerry Bruckheimer Films', 'Infinitum Nihil', 'Blind Wink Productions']",United States,English,149.0,225000000.0,260500000.0,6.4,37.0,2013.0,Summer
+Planes,"['Walt Disney Pictures', 'Disneytoon Studios']",United States,English,92.0,50000000.0,239300000.0,5.7,39.0,2013.0,Summer
+Frozen,"['Walt Disney Pictures', 'Walt Disney Animation Studios']",United States,English,102.0,150000000.0,1280000000.0,7.4,75.0,2013.0,Autumn
+Saving Mr. Banks,"['Walt Disney Pictures', 'Ruby Films', 'Essential Media and Entertainment', 'BBC Films', 'Hopscotch Features']","['Australia', 'United Kingdom', 'United States']",English,125.0,35000000.0,117900000.0,7.5,65.0,2013.0,Autumn
+Muppets Most Wanted,"['Walt Disney Pictures', 'Mandeville Films', 'The Muppets Studio']",United States,English,107.0,51000000.0,80400000.0,6.4,61.0,2014.0,Spring
+Bears,"['Disneynature', 'Silverback Films']",United States,English,77.0,5000000.0,21300000.0,7.4,68.0,2014.0,Spring
+Million Dollar Arm,"['Walt Disney Pictures', 'Roth Films', 'Mayhem Pictures']",United States,English,124.0,25000000.0,39200000.0,7.0,56.0,2014.0,Spring
+Maleficent,"['Walt Disney Pictures', 'Roth Films']",United States,English,97.0,180000000.0,758500000.0,7.0,56.0,2014.0,Spring
+Planes: Fire & Rescue,"['Walt Disney Pictures', 'Disneytoon Studios']",United States,English,84.0,50000000.0,147000000.0,6.0,48.0,2014.0,Summer
+Khoobsurat,"['Walt Disney Pictures India', 'Anil Kapoor Films Company']",India,Hindi,127.0,3200000.0,11000000.0,6.4,,2014.0,Autumn
+"Alexander and the Terrible, Horrible, No Good, Very Bad Day","['Walt Disney Pictures', '21 Laps Entertainment', 'The Jim Henson Company']",United States,English,81.0,28000000.0,100700000.0,6.2,54.0,2014.0,Autumn
+Big Hero 6,"['Walt Disney Pictures', 'Walt Disney Animation Studios']",United States,English,102.0,165000000.0,657800000.0,7.8,74.0,2014.0,Autumn
+Into the Woods,"['Walt Disney Pictures', 'Lucamar Productions', 'Marc Platt Productions']",United States,English,124.0,50000000.0,213100000.0,5.9,69.0,2014.0,Winter
+"McFarland, USA","['Walt Disney Pictures', 'Mayhem Pictures']",United States,English,129.0,25000000.0,45700000.0,7.4,60.0,2015.0,Winter
+Cinderella,"['Walt Disney Pictures', 'Kinberg Genre', 'Allison Shearmur Productions', 'Beagle Pug Films']","['United States', 'United Kingdom']",English,106.0,95000000.0,542400000.0,6.9,67.0,2015.0,Winter
+Monkey Kingdom,"['Disneynature', 'Silverback Films']",United States,English,82.0,5000000.0,17100000.0,7.3,72.0,2015.0,Spring
+Tomorrowland,"['Walt Disney Pictures', 'A113 Productions']",United States,English,130.0,180000000.0,209000000.0,6.4,60.0,2015.0,Spring
+Inside Out,"['Walt Disney Pictures', 'Pixar Animation Studios']",United States,English,94.0,175000000.0,858000000.0,8.1,94.0,2015.0,Spring
+ABCD 2,Walt Disney Pictures,India,Hindi,154.0,,,,,2015.0,Summer
+The Good Dinosaur,,United States,English,94.0,175000000.0,332200000.0,6.7,66.0,2015.0,Autumn
+The Finest Hours,"['Walt Disney Pictures', 'Whitaker Entertainment', 'Red Hawk Entertainment']",United States,English,117.0,70000000.0,52100000.0,6.8,58.0,2016.0,Winter
+Zootopia,"['Walt Disney Pictures', 'Walt Disney Animation Studios']",United States,English,108.0,150000000.0,1024000000.0,8.0,78.0,2016.0,Winter
+The Jungle Book,"['Walt Disney Pictures', 'Fairview Entertainment']",United States,English,106.0,175000000.0,966600000.0,7.4,77.0,2016.0,Spring
+Tini: The Movie,,"['Spain', 'Italy']",Spanish,98.0,,8700000.0,,,2016.0,Spring
+Alice Through the Looking Glass,"['Walt Disney Pictures', 'Roth Films', 'Team Todd', 'Tim Burton Productions']",United States,English,113.0,170000000.0,300000000.0,6.2,34.0,2016.0,Spring
+Finding Dory,"['Walt Disney Pictures', 'Pixar Animation Studios']",United States,English,97.0,175000000.0,1029000000.0,7.3,77.0,2016.0,Summer
+The BFG,,United States,English,117.0,140000000.0,195200000.0,6.4,66.0,2016.0,Spring
+Pete's Dragon,,United States,English,103.0,65000000.0,143700000.0,6.7,71.0,2016.0,Summer
+Queen of Katwe,,United States,"['English', 'Luganda']",124.0,15000000.0,10400000.0,7.4,73.0,2016.0,Autumn
+Moana,,['United States'],English,107.0,150000000.0,690800000.0,7.6,81.0,2016.0,Autumn
+Dangal,"['Aamir Khan Productions', 'Walt Disney Pictures India']",India,Hindi,161.0,,,8.4,,2016.0,Winter
+March of the Penguins,"['Wild Bunch', 'National Geographic Films', 'Bonne Pioche']",France,French,80.0,8000000.0,127400000.0,7.5,79.0,2005.0,Winter
+Beauty and the Beast,"['Walt Disney Pictures', 'Mandeville Films']",United States,English,129.0,160000000.0,1264000000.0,8.0,95.0,2017.0,Winter
+Born in China,"['Disneynature', 'Shanghai Media Group', 'Chuan Films', 'Brian Leith Productions']","['United States', 'China', 'France']","['English', 'Mandarin', 'French']",76.0,5000000.0,25100000.0,7.2,57.0,2016.0,Summer
+Pirates of the Caribbean: Dead Men Tell No Tales,"['Walt Disney Pictures', 'Jerry Bruckheimer Films']",United States,English,129.0,230000000.0,794900000.0,6.6,39.0,2017.0,Spring
+Cars 3,"['Walt Disney Pictures', 'Pixar Animation Studios']",United States,English,102.0,175000000.0,383900000.0,6.7,59.0,2017.0,Spring
+Ghost of the Mountains,"['Disneynature', 'Brian Leith Productions']",United States,English,,,,6.7,,2017.0,Summer
+Jagga Jasoos,"['Walt Disney Pictures India', 'Picture Shuru Entertainment', 'Ishana Movies']",India,Hindi,162.0,,,,,2017.0,Summer
+Coco,"['Walt Disney Pictures', 'Pixar Animation Studios']",United States,English,105.0,175000000.0,807100000.0,8.4,81.0,2017.0,Autumn
+A Wrinkle in Time,,United States,English,109.0,100000000.0,133400000.0,4.2,53.0,2018.0,Winter
+Incredibles 2,,United States,English,118.0,200000000.0,1243000000.0,7.6,80.0,2018.0,Summer
+Christopher Robin,"['Walt Disney Pictures', '2DUX²']",United States,English,104.0,75000000.0,197700000.0,7.3,60.0,2018.0,Summer
+The Nutcracker and the Four Realms,"['Walt Disney Pictures', 'The Mark Gordon Company']",United States,"['English', 'French']",99.0,120000000.0,174000000.0,5.5,39.0,2018.0,Autumn
+Ralph Breaks the Internet,,United States,English,112.0,175000000.0,529300000.0,7.1,71.0,2018.0,Autumn
+Mary Poppins Returns,"['Walt Disney Pictures', 'Lucamar Productions', 'Marc Platt Productions']",United States,English,131.0,130000000.0,349500000.0,6.7,66.0,2018.0,Autumn
+Dumbo,"['Walt Disney Pictures', 'Tim Burton Productions', 'Infinite Detective Productions', 'Secret Machine Entertainment']",United States,English,112.0,170000000.0,353300000.0,7.2,96.0,2019.0,Spring
+Penguins,"['Disneynature', 'Silverback Films']",United States,English,76.0,,7.7,7.0,69.0,2019.0,Spring
+Aladdin,"['Walt Disney Pictures', 'Rideback', 'Marc Platt Productions']",United States,English,128.0,183000000.0,,8.0,86.0,2019.0,Spring
+Toy Story 4,,United States,English,100.0,200000000.0,1073000000.0,7.8,84.0,2019.0,Summer
+The Lion King,"['Walt Disney Pictures', 'Fairview Entertainment']",United States,English,118.0,250000000.0,1657000000.0,8.5,88.0,2019.0,Summer
+Maleficent: Mistress of Evil,"['Walt Disney Pictures', 'Roth/Kirschenbaum Films']",United States,English,119.0,185000000.0,491700000.0,6.6,43.0,2019.0,Autumn
+Lady and the Tramp,"['Walt Disney Pictures', 'Taylor Made']",United States,English,104.0,60000000.0,,7.3,78.0,2019.0,Autumn
+Noelle,Walt Disney Pictures,United States,English,100.0,,,6.3,48.0,2019.0,Autumn
+Frozen II,"['Walt Disney Pictures', 'Walt Disney Animation Studios']",United States,English,103.0,150000000.0,1450000000.0,6.9,64.0,2019.0,Autumn
+Togo,Walt Disney Pictures,United States,English,114.0,40000000.0,,8.0,69.0,2019.0,Winter
+Timmy Failure: Mistakes Were Made,"['Walt Disney Pictures', 'Etalon Film', 'Slow Pony Pictures', 'Whitaker Entertainment']",United States,English,99.0,42000000.0,,6.1,60.0,2020.0,Winter
+Onward,"['Walt Disney Pictures', 'Pixar Animation Studios']",United States,,102.0,175000000.0,136400000.0,7.4,61.0,2020.0,Winter
+Stargirl,"['Walt Disney Pictures', 'Gotham Group', 'Hahnscape Entertainment']",United States,English,107.0,,,7.3,,2020.0,Spring
+Dolphin Reef,Disneynature,United States,English,78.0,,,7.5,79.0,2018.0,Spring
+Elephant,Disneynature,United States,English,89.0,,,7.2,70.0,2020.0,Spring
+Artemis Fowl,"['Walt Disney Pictures', 'TriBeCa Productions', 'Marzano Films']",United States,English,95.0,125000000.0,,4.1,31.0,2020.0,Summer
+Hamilton,"['Walt Disney Pictures', '5000 Broadway Productions', 'Nevis Productions', 'Old 320 Sycamore Pictures', 'RadicalMedia']",United States,English,160.0,12500000.0,,8.7,90.0,2020.0,Summer
+Black Is King,"['Parkwood Entertainment', 'Walt Disney Pictures']",United States,English,85.0,,,5.4,84.0,2020.0,Summer
+Magic Camp,"['Walt Disney Pictures', 'Team Todd']",United States,English,100.0,24000000.0,,6.3,,2020.0,Summer
+The One and Only Ivan,"['Walt Disney Pictures', 'Jolie Pas Productions']",United States,English,95.0,,,6.7,58.0,2020.0,Summer
+Mulan,"['Walt Disney Pictures', 'Jason T. Reed Productions', 'Good Fear Productions']",United States,English,115.0,200000000.0,57000000.0,7.6,71.0,2020.0,Spring
+Clouds,,United States,English,,,,6.6,,2020.0,Autumn
+Soul,"['Walt Disney Pictures', 'Pixar Animation Studios']",United States,English,,150000000.0,,7.0,53.0,2020.0,Autumn
+Raya and the Last Dragon,"['Walt Disney Pictures', 'Walt Disney Animation Studios']",United States,English,,,,,,2021.0,Spring
+Cruella,"['Walt Disney Pictures', 'Gunn Films', 'Marc Platt Productions']",United States,English,,,,,,2021.0,Spring
+Jungle Cruise,"['Walt Disney Pictures', 'Davis Entertainment', 'Seven Bucks Productions', 'Flynn Picture Company']",United States,English,,,,,,2021.0,Summer
+The Beatles: Get Back,,"['United Kingdom', 'New Zealand', 'United States']",English,,,,8.0,,2021.0,Summer
