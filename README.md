@@ -13,5 +13,5 @@
 
 *Лабораторная работа не сдаются на проверку, но вопросы по мотивам лабораторной войдут в проверочную<br>на следующем занятии и позволят лучше воспринимать новый материал.*
 
-* Шкалы данных: пример вопроса для тренировки ([гугл-форма](https://forms.gle/G7vd9S2ZYcUWkZQ57))
-* Теория для лабораторной работы ([lab01-theory.ipynb](https://github.com/allatambov/PyDat26/blob/main/lab01-theory.ipynb)), задания ([lab01.ipynb](https://github.com/allatambov/PyDat26/blob/main/lab01.ipynb))
+* Шкалы данных: пример вопроса для тренировки ([гугл-форма](https://forms.gle/G7vd9S2ZYcUWkZQ57)), [ответы](https://github.com/allatambov/PyDat26/blob/main/q00-answers.md)
+* Теория для лабораторной работы ([lab01-theory.ipynb](https://github.com/allatambov/PyDat26/blob/main/lab01-theory.ipynb)), задания ([lab01.ipynb](https://github.com/allatambov/PyDat26/blob/main/lab01.ipynb)), решения ([lab01.ipynb](https://github.com/allatambov/PyDat26/blob/main/lab01-solutions.ipynb))
