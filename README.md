@@ -15,3 +15,19 @@
 
 * Шкалы данных: пример вопроса для тренировки ([гугл-форма](https://forms.gle/G7vd9S2ZYcUWkZQ57)), [ответы](https://github.com/allatambov/PyDat26/blob/main/q00-answers.md)
 * Теория для лабораторной работы ([lab01-theory.ipynb](https://github.com/allatambov/PyDat26/blob/main/lab01-theory.ipynb)), задания ([lab01.ipynb](https://github.com/allatambov/PyDat26/blob/main/lab01.ipynb)), решения ([lab01-solutions.ipynb](https://github.com/allatambov/PyDat26/blob/main/lab01-solutions.ipynb))
+
+### Неделя 2. Описание данных. Датафреймы pandas: добавление новых столбцов и формат дата-время
+
+* Описательные статистики и поиск выбросов ([слайды])
+* Практикум 2. Датафреймы pandas: добавление новых столбцов и формат дата-время ([practice02.ipynb](https://github.com/allatambov/PyDat26/blob/main/pydat-practice02.ipynb), [csv](https://github.com/allatambov/PyDat26/blob/main/nplus_one.csv))
+* Практикум 2*. Регулярные выражения: обзор
+
+### Лабораторная 2. Массивы NumPy: булевы массивы и фильтрация. Описательные статистики
+
+*Лабораторная работа не сдаются на проверку, но вопросы по мотивам лабораторной войдут в проверочную
+на следующем занятии и позволят лучше воспринимать новый материал.*
+
+* Описание данных: пример вопроса для тренировки [гугл-форма]
+* Теория для лабораторной работы: [lab02-theory.ipynb](https://github.com/allatambov/PyDat26/blob/main/lab02-theory.ipynb), задания ([lab02.ipynb](https://github.com/allatambov/PyDat26/blob/main/lab02.ipynb), [csv](https://github.com/allatambov/PyDat26/blob/main/languages.csv))
+
+
