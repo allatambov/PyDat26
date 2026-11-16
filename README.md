@@ -18,8 +18,8 @@
 
 ### Неделя 2. Описание данных. Датафреймы pandas: добавление новых столбцов и формат дата-время
 
-* Описательные статистики и поиск выбросов ([слайды])
-* Практикум 2. Датафреймы pandas: добавление новых столбцов и формат дата-время ([practice02.ipynb](https://github.com/allatambov/PyDat26/blob/main/pydat-practice02.ipynb), [csv](https://github.com/allatambov/PyDat26/blob/main/nplus_one.csv))
+* Описательные статистики и поиск выбросов ([слайды](https://github.com/allatambov/PyDat26/blob/main/02-%D0%9E%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85.pdf))
+* Практикум 2. Датафреймы pandas: добавление новых столбцов и формат дата-время ([practice02.ipynb](https://github.com/allatambov/PyDat26/blob/main/pydat-practice02.ipynb), [csv](https://github.com/allatambov/PyDat26/blob/main/nplus_one.csv)), решения ([pydat-practice02-solved.ipynb](https://github.com/allatambov/PyDat26/blob/main/pydat-practice02-solved.ipynb))
 * Практикум 2*. Регулярные выражения: обзор
 
 ### Лабораторная 2. Массивы NumPy: булевы массивы и фильтрация. Описательные статистики
@@ -27,7 +27,9 @@
 *Лабораторная работа не сдаются на проверку, но вопросы по мотивам лабораторной войдут в проверочную
 на следующем занятии и позволят лучше воспринимать новый материал.*
 
-* Описание данных: пример вопроса для тренировки [гугл-форма]
+* Описание данных: пример вопроса для тренировки ([гугл-форма](https://forms.gle/MhCwVwL5D2wviC1e9))
 * Теория для лабораторной работы: [lab02-theory.ipynb](https://github.com/allatambov/PyDat26/blob/main/lab02-theory.ipynb), задания ([lab02.ipynb](https://github.com/allatambov/PyDat26/blob/main/lab02.ipynb), [csv](https://github.com/allatambov/PyDat26/blob/main/languages.csv))
 
+### Неделя 3. Датафреймы pandas: поиск пропущенных значений и фильтрация строк
 
+* Практикум 3. Датафреймы pandas: поиск пропущенных значений и фильтрация строк ([practice03.ipynb](https://github.com/allatambov/PyDat26/blob/main/pydat-practice03.ipynb), [csv](https://github.com/allatambov/PyDat26/blob/main/disney_clean.csv))
