@@ -32,4 +32,4 @@
 
 ### Неделя 3. Датафреймы pandas: поиск пропущенных значений и фильтрация строк
 
-* Практикум 3. Датафреймы pandas: поиск пропущенных значений и фильтрация строк ([practice03.ipynb](https://github.com/allatambov/PyDat26/blob/main/pydat-practice03.ipynb), [csv](https://github.com/allatambov/PyDat26/blob/main/disney_clean.csv))
+* Практикум 3. Датафреймы pandas: поиск пропущенных значений и фильтрация строк ([practice03.ipynb](https://github.com/allatambov/PyDat26/blob/main/pydat-practice03.ipynb), [csv](https://github.com/allatambov/PyDat26/blob/main/disney_clean.csv)), решения ([pydat-practice03-solved.ipynb](https://github.com/allatambov/PyDat26/blob/main/pydat-practice03-solved.ipynb))
