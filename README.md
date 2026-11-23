@@ -27,8 +27,8 @@
 *Лабораторная работа не сдаются на проверку, но вопросы по мотивам лабораторной войдут в проверочную
 на следующем занятии и позволят лучше воспринимать новый материал.*
 
-* Описание данных: пример вопроса для тренировки ([гугл-форма](https://forms.gle/MhCwVwL5D2wviC1e9))
-* Теория для лабораторной работы: [lab02-theory.ipynb](https://github.com/allatambov/PyDat26/blob/main/lab02-theory.ipynb), задания ([lab02.ipynb](https://github.com/allatambov/PyDat26/blob/main/lab02.ipynb), [csv](https://github.com/allatambov/PyDat26/blob/main/languages.csv))
+* Описание данных: пример вопроса для тренировки ([гугл-форма](https://forms.gle/MhCwVwL5D2wviC1e9), [ответы](https://github.com/allatambov/PyDat26/blob/main/q01-answers.md))
+* Теория для лабораторной работы: [lab02-theory.ipynb](https://github.com/allatambov/PyDat26/blob/main/lab02-theory.ipynb), задания ([lab02.ipynb](https://github.com/allatambov/PyDat26/blob/main/lab02.ipynb), [csv](https://github.com/allatambov/PyDat26/blob/main/languages.csv)), решения ([lab02-solutions.ipynb](https://github.com/allatambov/PyDat26/blob/main/lab02-solutions.ipynb))
 
 ### Неделя 3. Датафреймы pandas: поиск пропущенных значений и фильтрация строк
 
